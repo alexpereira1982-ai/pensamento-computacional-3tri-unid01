@@ -3,6 +3,7 @@ body{
     max-width: 900px;
     background-color: #bfbcbc;
     box-sizing: border-box;
+    font-size: 1.2rem;
 }
 header{
     background-color: #183c63;
