@@ -23,6 +23,7 @@ footer{
     color: #ffffff;
     padding: 10px;
     text-align: center;
+    justify-content: center;
 }
 
 span{  
@@ -60,4 +61,8 @@ img{
 
 h2{
     margin: 0;
+}
+
+p{
+    text-align: justify;
 }
